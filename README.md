@@ -39,7 +39,7 @@ Developed for a Non-Profit Organization-Light of Self Foundation.
 ![Second Screenshot](screenshots/Screenshot%20(142).png)
 
 ### Translation Output
-![Translation Output](screenshots/translation-output.png)
+![Third Screenshot](screenshots/Screenshot%20(143).png)
 
 ### Generated Word Document
 ![Generated Document](screenshots/generated-document.png)
