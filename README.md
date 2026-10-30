@@ -36,7 +36,7 @@ Developed for a Non-Profit Organization-Light of Self Foundation.
 ![Application Screenshot](screenshots/Screenshot%20(141).png)
 
 ### Language Selection
-![Language Selection](screenshots/Screenshot%20(142).pngg)
+![Second Screenshot](screenshots/Screenshot%20(142).png)
 
 ### Translation Output
 ![Translation Output](screenshots/translation-output.png)
