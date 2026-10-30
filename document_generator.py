@@ -1,4 +1,4 @@
-"""Create a Word document containing translated text."""
+
 from pathlib import Path
 from docx import Document
 
