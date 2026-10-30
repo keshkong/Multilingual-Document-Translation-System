@@ -33,7 +33,7 @@ Developed for a Non-Profit Organization-Light of Self Foundation.
 
 ### Main Application
 
-![Main Window](screenshots/Screenshot(141).png)
+![Application Screenshot](screenshots/Screenshot%20(141).png)
 
 ### Language Selection
 ![Language Selection](C:\Users\Jyotindra\OneDrive\Pictures\Screenshots\Screenshot (142).png)
