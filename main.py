@@ -1,4 +1,4 @@
-"""Reconstructed PyQt5 desktop app based on the supplied internship report."""
+
 import os
 import sys
 from pathlib import Path
