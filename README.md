@@ -27,3 +27,18 @@ Installation and execution instructions will be added after the project dependen
 
 ## Author
 Developed for a Non-Profit Organization-Light of Self Foundation.
+
+
+## Application Screenshots
+
+### Main Application
+![Main Window](C:\Users\Jyotindra\OneDrive\Pictures\Screenshots\Screenshot (141).png)
+
+### Language Selection
+![Language Selection](C:\Users\Jyotindra\OneDrive\Pictures\Screenshots\Screenshot (142).png)
+
+### Translation Output
+![Translation Output](screenshots/translation-output.png)
+
+### Generated Word Document
+![Generated Document](screenshots/generated-document.png)
