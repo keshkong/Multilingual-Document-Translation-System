@@ -36,7 +36,7 @@ Developed for a Non-Profit Organization-Light of Self Foundation.
 ![Application Screenshot](screenshots/Screenshot%20(141).png)
 
 ### Language Selection
-![Language Selection](C:\Users\Jyotindra\OneDrive\Pictures\Screenshots\Screenshot (142).png)
+![Language Selection](screenshots/Screenshot%20(142).pngg)
 
 ### Translation Output
 ![Translation Output](screenshots/translation-output.png)
